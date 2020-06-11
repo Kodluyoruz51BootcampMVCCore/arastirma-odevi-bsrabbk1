@@ -1,9 +1,6 @@
 # Araştırma Ödevi
 
 
-
-##### BÜŞRA BEBEK 
-
 #### SOLİD PRENSİPLERİ 
 
 Kodumuzun daha performanslı, daha az karmaşık,daha okunur ve geliştirilebilir olması için çıkarılan prensiplerdir. 
@@ -46,10 +43,7 @@ Aynı iişi yapmak için tek sınıfa sahip olmak yerine her işlem veya gereksi
 - #### Bağımlılıkların Terslenmesi Prensibi (DIP) 
 
 Yüksek seviyeli modüller, düşük seviyeli modüllere bağlı olmamalıdır. Her ikisi soyutlamalara bağlı olmalıdır. 
-Soyutlamalar detaylara bağlı olmamalıdır.Detaylar soyutlamalara bağlı olmalıdır. 
-
-
-### Büşra BEBEK  
+Soyutlamalar detaylara bağlı olmamalıdır.Detaylar soyutlamalara bağlı olmalıdır.  
 
 ## ETKİNLİKLER 
 
