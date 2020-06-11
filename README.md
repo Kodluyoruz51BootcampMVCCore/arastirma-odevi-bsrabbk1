@@ -15,7 +15,7 @@ Dependency (Bağımlılıkların Terslenmesi Prensibi)
 Bir sınıfın değiştirmek için sadece bir nedeni olmalıdır. Bir sınıfa birden fazla sorumluluk yüklenmemesi ve tek bir sorumluluğun birden çok sınıfa yayılmaması veya diğer sorumluluklarla karıştırılmaması gerektiği anlamına gelir.
 
 
-https://1drv.ms/u/s!Ag4rqYrWUgfshEMeUPdIgqeOkUEF?e=aEcjHY
+!(https://1drv.ms/u/s!Ag4rqYrWUgfshEMeUPdIgqeOkUEF?e=aEcjHY)
 
 
 
@@ -24,7 +24,7 @@ https://1drv.ms/u/s!Ag4rqYrWUgfshEMeUPdIgqeOkUEF?e=aEcjHY
 Yazılım varlıkları uzantı için açık, değişiklik için kapalı olmalıdır. 
 Yeni kod kullanılarak uygulanmalı, ancak mevcut kod değiştirilerek uygulanmamalıdır. 
 
-https://1drv.ms/u/s!Ag4rqYrWUgfshEBA-0EXVxw7h6Cz?e=z72Ppz
+!(https://1drv.ms/u/s!Ag4rqYrWUgfshEBA-0EXVxw7h6Cz?e=z72Ppz)
 
 
 - #### Liskov Yerine Geçme Prensibi  
@@ -32,7 +32,7 @@ https://1drv.ms/u/s!Ag4rqYrWUgfshEBA-0EXVxw7h6Cz?e=z72Ppz
 Temel Sınıflara işaretçiler veya referanslar kullanan işlevler, türetilmiş sınıfların nesnelerini bilmeden kullanabilmelidir. 
 (Barbara Liskow tanıtmıştır.) 
 
-https://1drv.ms/u/s!Ag4rqYrWUgfshEX8ihgaxU_YogOo?e=yL2p7C
+!(https://1drv.ms/u/s!Ag4rqYrWUgfshEX8ihgaxU_YogOo?e=yL2p7C)
 
 - #### Arayüz Ayrımı Prensibi 
 
@@ -41,7 +41,7 @@ alanlara bölünmelidir.
 Aynı iişi yapmak için tek sınıfa sahip olmak yerine her işlem veya gereksinim için ayrı arabilimler oluşturulmalıdır. 
 
 
-https://1drv.ms/u/s!Ag4rqYrWUgfshEhr8wGovhdO13hS?e=4sczgZ
+!(https://1drv.ms/u/s!Ag4rqYrWUgfshEhr8wGovhdO13hS?e=4sczgZ)
 
 
 - #### Bağımlılıkların Terslenmesi Prensibi (DIP) 
@@ -244,11 +244,14 @@ Etkinliğin günü ve saati: 18.06.2020 saat 17.00
 #### YAZILIM ALANINDA YAPILAN YARIŞMALAR 
 
  TÜBİTAK-BİDEB 2242 
-         Lisans Öğrencileri Yazılım Projeleri Yarışması 
+   Lisans Öğrencileri Yazılım Projeleri Yarışması 
+         
  Next In Game Oyun Girişimciliği Yarışması 
  Son Başvuru Tarihi: 15.07.2020 
+ 
   Sürdürülebilir Gelecek Yarışması 
  Son Başvuru Tarihi: 01.07.2020 
+ 
  GLOBAL GAME JAM (GGJ)  
    2020 yılında geleneksel olarak düzenlediği  GGJ TEKNOKENTTE YAPILACAK. 
 
