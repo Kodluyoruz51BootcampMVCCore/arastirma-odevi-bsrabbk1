@@ -14,9 +14,7 @@ Dependency (Bağımlılıkların Terslenmesi Prensibi)
 
 Bir sınıfın değiştirmek için sadece bir nedeni olmalıdır. Bir sınıfa birden fazla sorumluluk yüklenmemesi ve tek bir sorumluluğun birden çok sınıfa yayılmaması veya diğer sorumluluklarla karıştırılmaması gerektiği anlamına gelir.
 
-
-!(https://1drv.ms/u/s!Ag4rqYrWUgfshEMeUPdIgqeOkUEF?e=aEcjHY)
-
+![img](http://oguzhankaymak.net/wp-content/uploads/2020/01/single_responsibility.png)
 
 
 - #### Açık- Kapalı Prensibi (OCP) 
@@ -24,15 +22,14 @@ Bir sınıfın değiştirmek için sadece bir nedeni olmalıdır. Bir sınıfa b
 Yazılım varlıkları uzantı için açık, değişiklik için kapalı olmalıdır. 
 Yeni kod kullanılarak uygulanmalı, ancak mevcut kod değiştirilerek uygulanmamalıdır. 
 
-!(https://1drv.ms/u/s!Ag4rqYrWUgfshEBA-0EXVxw7h6Cz?e=z72Ppz)
-
+![Open-Closed Principle (OCP) (Açık-Kapalı Prensibi) Nedir?](https://miro.medium.com/max/341/0*vWivyZlEhh0skP3-.jpg)
 
 - #### Liskov Yerine Geçme Prensibi  
 
 Temel Sınıflara işaretçiler veya referanslar kullanan işlevler, türetilmiş sınıfların nesnelerini bilmeden kullanabilmelidir. 
 (Barbara Liskow tanıtmıştır.) 
 
-!(https://1drv.ms/u/s!Ag4rqYrWUgfshEX8ihgaxU_YogOo?e=yL2p7C)
+![Liskov Substitution Principle (LSP) – Liskov'un Yerine Geçme ...](https://lh3.googleusercontent.com/proxy/UqG6xRwvy8G--mpAjcEpVE__7pkGNRBsVap-7nUXWZX-RbYlmeU_P9zdV49GdDIckOk6fkeOCjsNJM9SIWR0J6I--flwHFQhLCPKkYRBYvKrVaZDzA)
 
 - #### Arayüz Ayrımı Prensibi 
 
@@ -40,8 +37,7 @@ Hiçbir müşteri, kullanmadığı yöntemleri uygulamaya zorlanmamalı ve sözl
 alanlara bölünmelidir. 
 Aynı iişi yapmak için tek sınıfa sahip olmak yerine her işlem veya gereksinim için ayrı arabilimler oluşturulmalıdır. 
 
-
-!(https://1drv.ms/u/s!Ag4rqYrWUgfshEhr8wGovhdO13hS?e=4sczgZ)
+![Arayüz Ayrım Prensibi(Interface Segregation Principle – ISP ...](https://www.gencayyildiz.com/blog/wp-content/uploads/2016/05/Aray%C3%BCz-Ayr%C4%B1m-PrensibiInterface-Segregation-Principle-ISP-2.jpg)
 
 
 - #### Bağımlılıkların Terslenmesi Prensibi (DIP) 
@@ -58,13 +54,13 @@ Gelecek etkinlikler:
 
 1. ÇözümPark Online Eğitim - ESET Secure Authentication 
  ESET Secure Authentication, her boyuttaki işletmelerin tüm sistemlerini çok aşamalı kimlik doğrulama ile koruyabilmeleri için basit ve etkili bir yol. Bu online eğitimimizde ESET Secure Authentication ürünü hakkında aşağıdaki temel özellikleri paylaşılacak: 
-   -    10 dakikada kurulum 
-   -     Uzaktan yönetim 
-   -    VPN Entegrasyonu 
-   -     Uzak Masaüstü (RDP) Entegrasyonu 
-   -     Windows Login 
-   -     Web entegrasyonu 
-   -     Soru Cevap 
+   -  10 dakikada kurulum 
+   -  Uzaktan yönetim 
+   -  VPN Entegrasyonu 
+   -  Uzak Masaüstü (RDP) Entegrasyonu 
+   -  Windows Login 
+   -  Web entegrasyonu 
+   -  Soru Cevap 
 Etkinlik gün ve saati: 10.06.2020 saat 10.00 
 Konuşmacılar: HAKAN UZUNER, SEZER GÜLER  
                             
